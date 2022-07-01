@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Balcom-Test/static/css/main.5acfba23.css",
+    "main.js": "/Balcom-Test/static/js/main.d9da54ba.js",
+    "static/js/787.56235262.chunk.js": "/Balcom-Test/static/js/787.56235262.chunk.js",
+    "static/media/hero.jpg": "/Balcom-Test/static/media/hero.c008143e9dbc9e3189ff.jpg",
+    "static/media/group5.jpg": "/Balcom-Test/static/media/group5.7fb3569c3e328fe0b98a.jpg",
+    "static/media/group9.jpg": "/Balcom-Test/static/media/group9.61eac9279246440a882b.jpg",
+    "static/media/group2.jpg": "/Balcom-Test/static/media/group2.431c7e9438989a8ffc54.jpg",
+    "static/media/group4.jpg": "/Balcom-Test/static/media/group4.fa67989f169e80a9fbf4.jpg",
+    "static/media/group10.jpg": "/Balcom-Test/static/media/group10.28acd18fc401cebf7b5d.jpg",
+    "static/media/group8.jpg": "/Balcom-Test/static/media/group8.da8143556f1c72cb0978.jpg",
+    "static/media/instagram.svg": "/Balcom-Test/static/media/instagram.2f7846663a3fb29931c5d96e167f5312.svg",
+    "static/media/balcom_logo.svg": "/Balcom-Test/static/media/balcom_logo.7568fe4ba52b57ffc150a4905b83ed8c.svg",
+    "index.html": "/Balcom-Test/index.html",
+    "static/media/facebook.svg": "/Balcom-Test/static/media/facebook.164a1fce353360b0379ac3a771154c0e.svg",
+    "main.5acfba23.css.map": "/Balcom-Test/static/css/main.5acfba23.css.map",
+    "main.d9da54ba.js.map": "/Balcom-Test/static/js/main.d9da54ba.js.map",
+    "787.56235262.chunk.js.map": "/Balcom-Test/static/js/787.56235262.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5acfba23.css",
+    "static/js/main.d9da54ba.js"
+  ]
+}
