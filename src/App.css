@@ -1,38 +1,59 @@
+* {
+  font-family: 'Ubuntu', sans-serif;
+}
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#hero {
+  width: 100vw;
+  height: 100vh;
+  padding: 0px;
+  margin: 0px;
+  background-image: url("/src/Components/Images/hero.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+#info-section {
+  width: 100vw;
+  height: auto;
+  padding: 0px;
+}
+
+#inner-hero {
+  background-color: white;
+  width: auto;
+  bottom: 0; 
+  position: absolute;
+}
+
+#hero-content {
+  width: 50vw;
+  padding-top: 4rem;
+}
+
+.title {
+  font-weight: bold;
+}
+.uppercased {
+  text-transform: uppercase;
+}
+
+@media only screen and (max-width: 767px) {
+  .spaced {
+    margin: 20px 0px;
+  }
+  #hero-content {
+    width: 70vw;
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+@media only screen and (max-width: 600px) {
+  #hero-content {
+    width: 90vw;
   }
 }
